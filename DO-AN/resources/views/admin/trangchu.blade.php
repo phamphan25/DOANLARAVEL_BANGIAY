@@ -1292,8 +1292,8 @@
                                         <a href="javascript:void(0)">Pages</a>
                                     </li>
                                     <li class="sub-slide">
-                                        <a class="sub-side-menu__item" data-bs-toggle="sub-slide" href="/admin/giay"><span
-                                                class="sub-side-menu__label"></span><i
+                                        <a class="sub-side-menu__item" data-bs-toggle="sub-slide"
+                                            href="/admin/giay"><span class="sub-side-menu__label"></span><i
                                                 class="sub-angle fa fa-angle-right"></i></a>
                                         <ul class="sub-slide-menu">
                                             <li>
@@ -1442,7 +1442,7 @@
                         <!-- PAGE-HEADER END -->
 
                         <!-- Row -->
-                      
+
 
                     </div>
                 </div>

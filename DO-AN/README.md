@@ -1,16 +1,17 @@
-## PvB SHOES SHOP (Website Laravel)
+## SHOES SHOP (Website Laravel)
 
 ```bash
 
 ```
 
 ### Install: (Run in Terminal)
+
 ```bash
 cp .env.example .env
-composer install 	
+composer install
 # or: composer install --ignore-platform-reqs
-# or: composer update 
-# or: composer update --ignore-platform-reqs  
+# or: composer update
+# or: composer update --ignore-platform-reqs
 npm install
 npm audit fix
 npm run dev
@@ -21,6 +22,7 @@ php artisan serve
 ```
 
 ### Admin account:
+
 ```bash
 # username:
 admin
